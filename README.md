@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CutFrame - Production Video Cutter
 
 CutFrame is a browser-based video cutter built with Next.js + TypeScript.
@@ -64,3 +65,7 @@ npm start
 - Best compatibility is in latest Chrome or Edge.
 - If your browser cannot encode MP4 directly, CutFrame falls back to WEBM automatically and clearly shows that in UI.
 - Processing stays local in the browser; files are not uploaded.
+=======
+# Video-Cutter-Tool
+Ye ak video cutter tool ha, jaha par video upload karka video ko manualy cut kiya ja sakta ha, kafi fast ha or iski audio or video quality b kharab nhi hoti 
+>>>>>>> 7dc8674fd68ac25806853ede96b9678c15c572aa
